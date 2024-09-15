@@ -12,7 +12,7 @@ This project is a personal CV website for Karl Apolonio, studying Frontend Devel
 - Integrated Open Graph (OG) tags for better social media sharing
 
 ## Project URL
-The website is live at: [https://github.com/apol-pen/Single-Page-CV]
+The website is live at: https://roadmap.sh/projects/single-page-cv
 
 ## Tech Stack
 - HTML
