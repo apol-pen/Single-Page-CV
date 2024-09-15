@@ -3,7 +3,7 @@
 ## Description
 This project is a personal CV website for Karl Apolonio, studying Frontend Development. The site showcases skills, education, and work experience, built using HTML.
 
-**You can view the live website here:** [(https://github.com/apol-pen/Single-Page-CV]
+**You can view the live website here:** [https://github.com/apol-pen/Single-Page-CV]
 
 ## Features
 - Fully responsive design
